@@ -1,0 +1,10 @@
+{
+    "dailyMin": 1000,
+    "dailyMax": 10000,
+    "hourlyMin": 100,
+    "hourlyMax": 500,
+
+    "colorCodeGreen": 5763719,
+    "colorCodeRed": 15548997,
+    "colorCodeBlue": 6786502
+}

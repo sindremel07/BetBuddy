@@ -1,0 +1,21 @@
+{
+  "name": "discord-gambling-bot",
+  "version": "1.0.0",
+  "description": "A Discord gambling bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "mongodb": "^4.17.2",
+    "mongoose": "^8.6.1",
+    "parse-ms-2": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1"
+  }
+}
